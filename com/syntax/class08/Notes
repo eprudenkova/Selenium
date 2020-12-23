@@ -1,0 +1,43 @@
+Class 08
+
+Implicit Wait
+will be applied only for findElement() or findElements() methods
+"NoSuchElementException"
+
+Explicit Wait or WebDriver Wait
+
+it is use to tell webdriver to wait for a certain or expected condition before throwing
+"ElementNotVisibleException"
+
+Explicit Wait wait works with ExpectedConditions class waits until the condition is met
+or the given time is achieved
+
+if you explicit wait we are using for specified element
+implicit wait for all web elements on the web page
+
+Fluent Wait
+it is used to tell the webdriver to wait for certain condition as well as frequency before throwing
+"ElementNotVisibleExceptio"
+
+WebTables
+are one of the elements in UI,
+which constructed by having rows and columns
+
+2 types of WebTables:
+1. static webtables
+2. dynamic webtables
+
+WebTables consist of different sections or parts -- tags
+<table> open
+        <thead>
+                <tr>
+                    <th> </th> --> column (heading)
+                </tr>
+        </thead>
+        <tbody>
+                <tr>
+                    <td></td> --> table data
+                <tr>
+        </tbody>
+</table> close
+

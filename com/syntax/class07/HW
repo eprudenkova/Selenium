@@ -1,0 +1,12 @@
+HW
+Go to https://demoqa.com/browser-windows
+click on New Tab and print the text from new tab in the console
+click on New Window and print the text from new window in the console
+click on New Window Message and print the text from new window in the console
+Verify the title is displayed
+Print out the title of the all pages
+HW
+navigate to http://www.uitestpractice.com/Students/Contact
+click on the link
+get text
+print out in the console

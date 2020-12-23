@@ -1,0 +1,19 @@
+    1. Xpath
+    2. cssSelector
+    3. WebElement commands
+    4. RadioButtons and Check Boxes
+    5. Drop Down and Multiple Selection menus
+    6. switchTo() commands
+    7. Handling Alert
+    8. Handling iFrames
+    9. Handling windows
+
+
+    // basic syntax for xpath = //tagName[@attribute='attributeValue']
+    //                          //tagName[text()='textValue']
+
+    //                          //tagName[@attribute1='att1Value' and @attribute2='att2Value']
+    //                          //tagName[@attribute1='att1Value' or @attribute2='att2Value']
+
+
+    //img[@id='hide' and @width='11%']
